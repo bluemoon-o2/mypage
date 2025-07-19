@@ -16,7 +16,7 @@
 	},
 	"brightness": 85,
 	"blur": 7,
-	"tags": ["乐观开朗", "温柔体贴", "随和亲切", "冷静沉着", "才思敏捷", "风趣幽默", "刚正不阿", "善解人意"],
+	"tags": ["乐观开朗", "随和亲切", "冷静沉着", "才思敏捷", "风趣幽默",  "善解人意"],
 	"background": {
 		"pc": {
 			"type": "pic",
@@ -145,7 +145,7 @@
 		"title": "Project 1",
 		"subtitle": "1,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}, {
 		"go": "🗂️ 前往",
@@ -153,7 +153,7 @@
 		"title": "Project 2",
 		"subtitle": "2,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}, {
 		"go": "📝 前往",
@@ -161,7 +161,7 @@
 		"title": "Project 3",
 		"subtitle": "3,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}, {
 		"go": "👍 前往",
@@ -169,7 +169,7 @@
 		"title": "Project 4",
 		"subtitle": "4,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}, {
 		"go": "🗃 前往",
@@ -177,7 +177,7 @@
 		"title": "Project 5",
 		"subtitle": "5,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}, {
 		"go": "🎨 前往",
@@ -185,7 +185,7 @@
 		"title": "Project 6",
 		"subtitle": "6,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}, {
 		"go": "💍 前往",
@@ -193,7 +193,7 @@
 		"title": "Project 7",
 		"subtitle": "7,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}, {
 		"go": "🔍 前往",
@@ -201,9 +201,9 @@
 		"title": "Project 8",
 		"subtitle": "8,000 miles of wonder",
 		"text": "If you see this line, I've managed to get your attention.",
-		"url": "https://leleo.top",
+		"url": "https://welog.me",
 		"show": false
 	}],
-	"statement": ["备案号：XXICP备123456789号", "Copyright © 2025 Leleo"]
+	"statement": ["备案号：蜀ICP备123456789号", "Copyright © 2025 XiaoXian"]
 }
 ```
