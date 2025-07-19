@@ -3,13 +3,13 @@
 ```json
 {
 	"metaData": {
-		"title": "Leleo的个人主页",
-		"description": "欢迎来到Leleo的奇妙世界！",
-		"keywords": "Leleo,leleo,个人主页,个人网站",
+		"title": "张小仙的个人主页🎉",
+		"description": "欢迎来到小仙的奇妙世界！",
+		"keywords": "xiaoxian,小仙,个人主页,个人网站",
 		"icon": "/favicon.ico"
 	},
 	"avatar": "/img/avatar.jpg",
-	"welcometitle": "Hi, I'm Leleo",
+	"welcometitle": "Hi, I'm XiaoXian",
 	"color": {
 		"themecolor": "#FFFFFF",
 		"welcometitlecolor": "#FFFFFF"
